@@ -13,4 +13,5 @@ Catch me up on instagram @shamanthar.exe to know more. :)
 - 🤔 I’m looking for help with Robotic Process Automation.
 - 💬 Ask me about HTML,CSS,Bootstrap,JS,Python,Photo editing.
 - 📫 How to reach me :Linkedin :https://www.instagram.com/in/not_Elkcloner.exe / or follow me on twitter @ Shamanth A R
-- ⚡ Fun fact: You know you're a programmer when you tell a programmer joke and nobody understands it.
+- ⚡ Fun fact: - Me and my friend once were having a debate on " What would be the best name for a looping variable ? ".
+                - eventually i won !!! 😜
